@@ -1,0 +1,16 @@
+PODS:
+  - weipl_checkout (0.1.0)
+
+DEPENDENCIES:
+  - weipl_checkout (from `../`)
+
+EXTERNAL SOURCES:
+  weipl_checkout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  weipl_checkout: 31023366e23248444bddef7119fcdc507d837291
+
+PODFILE CHECKSUM: 98c194bf5d08057665606590f5eb8ed896b6ab45
+
+COCOAPODS: 1.11.3
